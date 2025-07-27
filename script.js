@@ -6,3 +6,6 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
 function toggleMenu() {
   document.getElementById("navbar").classList.toggle("show");
 }
+function toggleMenu() {
+  document.getElementById("navbar").classList.toggle("show");
+}
